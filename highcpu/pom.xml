@@ -21,7 +21,6 @@
         <groupId>com.github.chrishantha.sample</groupId>
         <artifactId>java-samples</artifactId>
         <version>0.0.2-SNAPSHOT</version>
-        <relativePath>highcpu/pom.xml</relativePath>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
